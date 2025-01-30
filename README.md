@@ -1,5 +1,6 @@
 
 🛠 Funcionamento:
+
 1️⃣ O programa inicia com uma lista vazia chamada lista_de_nome.
 
 2️⃣ O usuário escolhe uma das seguintes opções no menu interativo:
@@ -14,8 +15,11 @@
 
 
 🔍 Destaques do Código:
+
 ✅ Validação de entrada → Evita que o usuário digite valores inválidos.
+
 ✅ Proteção contra remoção indevida → Garante que um índice inválido não cause erros.
+
 ✅ Mensagens informativas → O programa avisa sempre que uma ação for concluída.
 
 
